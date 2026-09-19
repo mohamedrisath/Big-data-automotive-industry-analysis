@@ -1,0 +1,50 @@
+Big Data in the Automotive Industry: Autonomous Vehicles and Formula 1
+
+This repository contains my MSc Business Analytics dissertation completed at Manchester Metropolitan University.
+
+About the Project
+
+The purpose of this research was to understand how Big Data is used in the automotive industry, particularly in autonomous vehicles and Formula 1.
+
+I selected these two areas because both generate large amounts of real-time data, but they use the data for different purposes. Autonomous vehicles mainly use data for safe decision-making and navigation, while Formula 1 uses telemetry and analytics to improve vehicle and race performance.
+
+The study also compared the data infrastructure used in both areas and looked at what they could potentially learn from each other.
+
+Research Objectives
+
+- Examine how Big Data supports real-time decision-making in autonomous vehicles.
+- Understand how Formula 1 teams use Big Data for performance optimisation.
+- Compare the data infrastructure used in autonomous vehicles and Formula 1.
+- Identify challenges in using Big Data in both areas.
+- Explore opportunities for knowledge transfer between the two domains.
+
+Methodology :
+
+This was a library-based dissertation.
+
+I used the PICOS framework to define the scope of the research and followed the PRISMA approach for selecting relevant studies. The initial search identified 1,076 records, which were screened and reduced to six studies for the final analysis.
+
+The selected studies were analysed using thematic analysis.
+
+Main Themes:
+
+The analysis identified six main themes:
+
+1. Real-time decision-making and latency
+2. AI interpretability and trust
+3. Simulation and predictive modelling
+4. Edge and cloud infrastructure
+5. Safety versus performance optimisation
+6. Cross-domain learning
+
+Key Findings :
+
+The research showed that autonomous vehicles and Formula 1 both depend heavily on real-time data processing, but their priorities are different.
+
+Autonomous vehicles focus mainly on safety, low-latency processing and reliable decision-making. Formula 1 focuses more on telemetry, simulation and performance optimisation.
+
+The comparison also showed that there are opportunities for both areas to learn from each other, particularly in real-time analytics, simulation, edge computing and AI.
+
+Tools and Methods :
+
+PICOS | PRISMA | Thematic Analysis | Big Data Analytics | Academic Research
